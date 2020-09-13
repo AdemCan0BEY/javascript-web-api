@@ -1,0 +1,25 @@
+{
+  "name": "javascript-web-api",
+  "version": "1.0.0",
+  "description": "JavaScript Web APİ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdemCan0BEY/javascript-web-api.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "AdemCan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdemCan0BEY/javascript-web-api/issues"
+  },
+  "homepage": "https://github.com/AdemCan0BEY/javascript-web-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
